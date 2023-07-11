@@ -6,3 +6,6 @@
 4. Keylogger
 5. PDF merge
 6. Random Password Generator(RPG)
+7. Encryption and Decryption(scode.py)
+8. Robospeaker (robospeaker.py)
+
